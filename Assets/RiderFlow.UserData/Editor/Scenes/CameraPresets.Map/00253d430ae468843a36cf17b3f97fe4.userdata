@@ -1,0 +1,28 @@
+{
+  "9ced57bc738810b4098233ffd35b04ab": {
+    "sceneGuid": "00253d430ae468843a36cf17b3f97fe4",
+    "uniqueCameraId": "9ced57bc738810b4098233ffd35b04ab",
+    "name": "Camera Preset",
+    "pointX": -0.192659676,
+    "pointY": 0.0323044732,
+    "pointZ": 2.74393773,
+    "directionX": 0.0,
+    "directionY": 0.0,
+    "directionZ": 0.0,
+    "directionW": 1.0,
+    "zoom": 7.17308044
+  },
+  "e553cd806d61d044a91b6122d9dd3427": {
+    "sceneGuid": "00253d430ae468843a36cf17b3f97fe4",
+    "uniqueCameraId": "e553cd806d61d044a91b6122d9dd3427",
+    "name": "Level Start",
+    "pointX": -0.4919712,
+    "pointY": -0.129253492,
+    "pointZ": 2.503196,
+    "directionX": 0.0,
+    "directionY": 0.0,
+    "directionZ": 0.0,
+    "directionW": 1.0,
+    "zoom": 6.94358969
+  }
+}
